@@ -16,7 +16,7 @@ using Nominatim.API.Geocoders;
 using Nominatim.API.Interfaces;
 using Nominatim.API.Web;
 
-namespace Botticelli.Locations.Vk.Extensions;
+namespace Botticelli.Locations.Vk1.Extensions;
 
 public static class ServiceCollectionExtensions
 {
